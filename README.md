@@ -3,13 +3,13 @@ DevCindy Portfolio Website
 Welcome to my personal portfolio website! 
 
 This project showcases my background, skills, interests, and journey as a Mechatronics Engineering graduate exploring the world of web development. It serves as a digital space to present my technical experience, projects, and growing capabilities in software and engineering.
-👩‍💻 About Me
+About Me
 
 I am a Mechatronics Engineering graduate with an interest in automation, embedded systems, renewable energy, and software development. I am currently expanding my skills in front-end web development by building practical projects and learning how to create responsive, user-friendly websites.
 
 I enjoy combining engineering principles with technology to develop practical solutions to real-world problems.
 
-🚀 Features
+Features
 
 - **Home:** An introduction to who I am.
 - **About Me:** Information about my background and interests.
@@ -18,7 +18,7 @@ I enjoy combining engineering principles with technology to develop practical so
 - **Responsive Design:** A layout designed to adapt to different screen sizes.
 - **Interactive Navigation:** A navigation menu for moving between sections of the website.
 
-🛠️ Technologies Used
+Technologies Used
 
 - **HTML5** – Structuring the website.
 - **CSS3** – Styling, layout, animations, and responsive design.
@@ -26,7 +26,7 @@ I enjoy combining engineering principles with technology to develop practical so
 - **Git & GitHub** – Version control and project hosting.
 - **Google Fonts & Font Awesome** – Typography and icons.
 
-📂 Project Structure
+Project Structure
 
 My_Portfolio/
 ├── index.html
@@ -37,7 +37,7 @@ My_Portfolio/
 ├── README.md
 
 
-⚙️ Getting Started
+Getting Started
 
 To run this project on your local computer:
 
@@ -55,7 +55,7 @@ To run this project on your local computer:
 
 3. Open `index.html` in your web browser, or use the Live Server extension in Visual Studio Code.
 
-🌱 What I Am Learning
+ What I Am Learning
 
 Through this project, I am developing my understanding of:
 
@@ -65,18 +65,17 @@ Through this project, I am developing my understanding of:
 - Organizing project files and maintaining code with Git.
 - Improving website accessibility, responsiveness, and usability.
 
-🔮 Future Improvements
-
+Future Improvements
 - Add more completed projects to the portfolio.
 - Improve mobile responsiveness and navigation.
 - Add a functional contact form.
 - Continue improving website interactivity and accessibility.
 
-🤝 Feedback and Collaboration
+Feedback and Collaboration
 
 I welcome constructive feedback, learning opportunities, and collaboration on projects involving web development, engineering, automation, and emerging technologies.
 
-📬 Connect With Me
+Connect With Me
 
 - **GitHub:** [WARUGURUCYNTHIA](https://github.com/WARUGURUCYNTHIA)
 - **Portfolio:** Add your live portfolio URL here.
