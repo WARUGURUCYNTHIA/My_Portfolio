@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DevCindy Portfolio Website</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" crossorigin="anonymous">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+    <header>
+    <div class="logo">
+        <img src="" alt="" class="logo__img">
+    </div>
+        <button class="nav-toggle" aria-label="toggle navigation" >
+            <span class="hamburger"></span>
+        </button>
+        <nav class="nav">
+            <ul class="nav__list">
+                <li class="nav__item"><a href="#home" class="nav__link">Home</a></li>
+                <li class="nav__item"><a href="#services" class="nav__link">My Services</a></li>
+                <li class="nav__item"><a href="#about" class="nav__link">About Me</a></li>
+                <li class="nav__item"><a href="#work" class="nav__link">My Work</a></li>
+            </ul>
+        </nav>
+</header>
+
+<!--Introduction-->
+<section class="intro" id="home">
+    <h1 class="section__title section__title--intro">
+        Hi, I am <strong>Cindy Kyalo</strong>
+    </h1>
+
+    <p class="section__subtitle section__subtitle--intro">Aspiring Web dev</p>
+
+    <img 
+    src="img/Me.png"
+     alt="a profile picture of Cindy"
+      class="intro__img">
+</section>
+
+
+<!--My Services-->
+<section class="my--services" id="services">
+    <h2 class="section__title section__title--services">What I do</h2>
+    <div class="service-grid">
+        <div class="service">
+            <h3>Web Development</h3>
+            <p>I am building my skills in HTML and CSS to create clean, responsive, and user-friendly websites. I am currently learning how to structure web pages, style layouts, and develop my own portfolio, with plans to expand into JavaScript and more advanced web technology.</p>
+        </div> <!-- /service -->
+         <div class="service">
+            <h3>Technical Troubleshooting</h3>
+            <p>I bring practical exposure to technical environments involving electrical systems, CCTV and networking installations, and industrial equipment. I am interested in diagnosing technical issues, understanding system behaviour, and supporting reliable operations.</p>
+
+        </div> <!-- /service -->
+         <div class="service">
+            <h3>VR Developer and Interactive Experience</h3>
+            <p>I have experience working on virtual engineering environments designed to support technical learning and equipment familiarization. I am interested in using Unity and interactive 3D environments to make complex technical concepts easier to understand.</p>
+          
+        </div> <!-- /service-->
+    </div> <!-- /service -->
+   
+    <a href="#work" class="btn"> My Work</a>
+
+    
+</section>
+  
+
+
+<!-- About me-->
+ <section class="about-me" id="about">
+    <h2 class="section__title section__title--about">About Me</h2>
+    <p class="section__subtitle section__subtitle--about">Mechatronics Engineer & Developer based in Nyeri.</p>
+
+    <div class="about-me__body">
+        <p>I’m a mechatronics engineering graduate passionate about technology, problem-solving, and innovation. Recently, I’ve ventured into web development, building my skills in HTML and CSS to create responsive, user-friendly websites.</p>
+        <p> With interests in automation, VR, and interactive 3D experiences, I’m eager to combine engineering and software development to build practical, creative solutions.</p>
+        </div>
+
+        <img src="/img/About_me.jpg" alt="" 
+        class="about-me__img">
+ </section>
+ 
+
+ <!-- My Work-->
+<section class="my-work" id="work">
+    <h2 class="section__title section__title--work">My Work</h2>
+    <p class="section__subtitle section__subtitle--work">A selection of my range of work</p>
+
+    <div class="portfolio">
+        <a href="#" class="portfolio__item">
+            <img src="/img/Control-panel.jpg" alt="" class="portfolio__img">
+        </a>
+         <!-- /porfolio -->
+        <a href="#" class="portfolio__item">
+            <img src="/img/Automation.jpg" alt="" class="portfolio__img">
+        </a>
+         <!-- /porfolio -->
+        <a href="#" class="portfolio__item">
+            <img src="/img/Uhh.jpg" alt="" class="portfolio__img">
+        </a>
+         <!-- /porfolio -->
+        <a href="#" class="portfolio__item">
+            <img src="/img/Idea.jpg" alt="" class="portfolio__img">
+        </a>
+        <a href="#" class="portfolio__item">
+            <img src="/img/css.jpg" alt="" class="portfolio__img">
+            </a>
+    </div>
+
+    <a href="#" class="btn">View More</a>
+
+    <!--Footer -->
+<footer>
+    <!--Replace with your own Email address-->
+    <a href="mailto:kyalo@cindy.dev" class="footer__link">kyalo@cindy.dev</a>
+    <ul class="social-list">
+        <li class="social-list__item">
+            <a href="#" class="social-list__link">
+                <i class="fab fa-github"></i>
+            </a>
+        </li>
+        <li class="social-list__item">
+            <a href="#" class="social-list__link">
+                <i class="fab fa-linkedin"></i>
+            </a>
+        </li>
+        <li class="social-list__item">
+            <a href="#" class="social-list__link">
+                <i class="fab fa-instagram"></i>
+            </a>
+         </li>
+    </ul>
+
+    <div class="footer__content">
+        <p>Copyright 2024. All Rights Reserved</p>
+    </div>
+    </footer>
+
+    <script src="js/index.js"></script>
+</body>
+</html>
