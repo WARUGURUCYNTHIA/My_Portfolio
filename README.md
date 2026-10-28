@@ -78,7 +78,7 @@ I welcome constructive feedback, learning opportunities, and collaboration on pr
 Connect With Me
 
 - **GitHub:** [WARUGURUCYNTHIA](https://github.com/WARUGURUCYNTHIA)
-- **Portfolio:** Add your live portfolio URL here.
+- **Portfolio:** https://theeportfolio-ten.vercel.app/
 - **LinkedIn:** https://www.linkedin.com/in/cynthia-kyalo-535a752a7/
 - Thank you for visiting my portfolio repository! This project reflects my ongoing learning journey and commitment to growing as an engineer and developer.*
 
